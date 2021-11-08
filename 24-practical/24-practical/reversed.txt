@@ -1,0 +1,24 @@
+
+.latot eht teg ot tsil taht mus ,enod era sremusnoc dna srecudorp eht ecnO -  
+.sremusnoc eht    
+neewteb derahs si taht tsil a ni enil a no s"o" fo tnuoc eht ecalp    
+.s"o" eht tnuoc dna eueuq eht morf senil ekat ot sremusnoc owt esU -  
+.eueuq a ni meht tup dna senil ni daer ot recudorp eno esU -  
+ .nrettap remusnoc/recudorp eht esU
+.elif siht ni s"o" fo rebmun eht tnuoc ot `oicnysa` gnisu margorp a etirW .2
+
+krowemoH ##
+
+.ssalc ni snoitulos ssucsid lliw eW .**ereh potS**
+
+.`)(nur.oicnysa` sekovni taht noitces niam a -  
+rehtegot meht gniniahc ,evoba seno eht sllac taht enituoroc a -  
+elif wen a ot tuptuo desrever eht setirw taht enituoroc a -  
+elif EMDAER siht ni sdaer taht enituoroc a -  
+edulcni dluohs margorp ruoy fo erutcurts cisab ehT .selif
+ eht etirw dna daer ot yrarbil `selifoia` eht esU .desrever enil hcae ni
+txet eht dna desrever senil eht fo redro eht htiw txet eht stnirp neht
+ dna senil fo tsil a ot elif EMDAER siht ni sdaer taht margorp a etirW .1
+
+.`ymehclalqs llatsni pip` ot yrasecen eb lliw ti bal s'yadot mrofrep oT
+OI cnysA :32  lacitcarP #
